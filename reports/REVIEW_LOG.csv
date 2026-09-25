@@ -1,0 +1,13 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0187.jpg,xe gần ở giữa hình gần giải phân cách,updated,sửa để bao trọn xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,xe to ở mép trái ảnh,updated,thu gọn bbox để sát xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,xe con ở mép trái ảnh,updated,thu gọn bbox để sát xe theo GUIDELINE_LABEL.md
+1,frame_0270.jpg,xe con ở góc xa ảnh,added,thêm bbox để bao trọn xe theo GUIDELINE_LABEL.md
+1,frame_0312.jpg,xe ở bên phải giải phân cách,updated,thu gọn bbox để sát xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,xe ở làn trái,updated,thu gọn bbox để sát xe theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,xe ở làn trái ngoài cùng,updated,dịch chuyển bbox để sát xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,xe ở góc dưới bên phải ảnh,updated,dịch chuyển bbox và điều chỉnh kích thước để bao trọn xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,xe ở làn bên phải,updated,phóng to bbox để bao trọn xe theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,xe ở giữa làn bên phải,deleted,xóa bbox thừa theo GUIDELINE_LABEL.md
+1,frame_0369.jpg,xe ở góc dưới bên phải ảnh,deleted,xe bị nhòe và lóa nên bỏ bbox thừa theo GUIDELINE_LABEL.md
+1,frame_0329.jpg,xe tải ở phía bên phải ngoài cùng của làn phải,deleted,bbox không đúng với object theo GUIDELINE_LABEL.md
